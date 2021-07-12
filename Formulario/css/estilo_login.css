@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+
+body{
+    height: 100%;	
+    display: flex;
+    align-items: center;
+
+
+
+    background-color:black;
+    color:rgba(211, 154, 154, 0.918);
+    padding: 20px;
+    border: 1px solid black;
+    box-shadow: 3px 3px black;
+    border-radius: 20px;
+}
+
+
+
+

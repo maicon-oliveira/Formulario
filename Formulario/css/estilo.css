@@ -1,0 +1,27 @@
+﻿@charset "UTF-8";
+
+body{
+	background-image:URL(../img/fundo2.jpg);
+	background-attachment:fixed;
+	background-size:100%;	
+}
+fieldset {
+	background-color:silver;
+	width:60%;
+	margin:0 auto;
+	border-radius:30px;
+	
+}
+input {
+	padding:5px;
+	margin:5px;
+	border-radius:2px;
+}
+legend{
+	text-align:center;
+	text-transform:uppercase;
+	background-color:silver;
+	font-weight:bold;
+	border-radius:5px;
+}
+

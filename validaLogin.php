@@ -7,7 +7,7 @@ if(isset($_POST['email']) && !empty($_POST['email']) && isset($_POST['senha']) &
 
       $u = new usuario();
       
-        //Usuario para acesso email:teste@gmail.com senha:123
+        //Usuario para acesso email:teste@gmail.com  senha:123
        $email = addslashes($_POST['email']);
        $senha = addslashes($_POST['senha']);
 

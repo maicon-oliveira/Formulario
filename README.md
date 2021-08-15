@@ -1,0 +1,3 @@
+#  Formulario_estoque_produtos
+ Formulario  com método **CRUD** usando **PHP, JavaScript,  HTML, CSS e MySQL**!!!
+ ...Editando...
